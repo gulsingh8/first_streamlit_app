@@ -50,7 +50,7 @@ except URLError as e:
 # output it the screen as table
 # streamlit.dataframe(fruityvice_normalized)
 
-streamlit.stop()
+#streamlit.stop()
 
 # Snowflake
 streamlit.text("Hello from Snowflake:")
